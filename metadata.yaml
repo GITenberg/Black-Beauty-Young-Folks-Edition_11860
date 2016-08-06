@@ -1,0 +1,29 @@
+_repo: Black-Beauty-Young-Folks-Edition_11860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sewell, Anna
+    alias: Sewell, Ana
+    birthdate: 1820
+    deathdate: 1878
+    gutenberg_agent_id: '154'
+    url: http://www.gutenberg.org/2009/agents/154
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Sewell
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Horses -- Juvenile fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Black Beauty, Young Folks' Edition
+url: http://www.gutenberg.org/ebooks/11860
